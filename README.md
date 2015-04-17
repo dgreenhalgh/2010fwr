@@ -1,13 +1,11 @@
-2010 FIFA World Risk, 2014 edition
+2010 FWR, 2014 edition
 ====================
-
-Experimenting with Unity
 
 #Rules
 
-##Risk
+##R
 
-##FIFA 2010 World Cup
+##F
 
 ##Input
 
